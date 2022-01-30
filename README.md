@@ -2,7 +2,7 @@
 
 The Unity group is responsible for developing and maintaing the Unity "AnyTown" Simulation that is shown on the Delieno webpage. 
 
-## 'Installation"
+## `Installation`
 Currently you need these softwares:
 
 [Unity](https://unity3d.com/get-unity/download)
