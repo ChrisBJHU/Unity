@@ -6,7 +6,9 @@ The Unity group is responsible for developing and maintaing the Unity "AnyTown" 
 Currently you need these softwares:
 
 [Unity](https://unity3d.com/get-unity/download)
+
 [Visual Studio Code](https://code.visualstudio.com/) (or similar IDE)
+
 [Blender](https://www.blender.org/)
 
 1. Please download "Unity Hub". Make sure to have a "Student" account with Unity created. Go ahead and download the other two softwares.
