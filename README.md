@@ -15,7 +15,7 @@ Currently you need these softwares:
 
 2. Please clone the Repository onto your device. This can be done with standard Git or a helper software like GitHub Desktop/GitKraken. The project is a couple of GBs so make sure to have space on your device. 
 
-3. Open up Unity Hub and proceed to download Version "2020.3.26f1". You'll need to download Build Support for your Operating System as well as WebGL Build Support. 
+3. Open up Unity Hub and proceed to download Version "2020.3.f1". You'll need to download Build Support for your Operating System as well as WebGL Build Support. 
 This process will most likely also download Microsoft Visual Studio Community if you don't have it installed already.
 
 4. Once the file is downloaded, go ahead and navigate to the Projects tab in Unity Hub and open up the folder you just cloned. Open up the project and Navigate to the Assets Folder. Inside that folder is another folder called Assets and a .blend file updateAnyTown2. Please Reimport this file.
