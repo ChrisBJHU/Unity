@@ -20,5 +20,5 @@ This process will most likely also download Microsoft Visual Studio Community if
 
 4. Once the file is downloaded, go ahead and navigate to the Projects tab in Unity Hub and open up the folder you just cloned. Open up the project and Navigate to the Assets Folder. Inside that folder is another folder called Assets and a .blend file updateAnyTown2. Please Reimport this file.
 
-Note: For large files, there's a handy program called Git LSF. To use it, I believe you have to use an application like Git Bash or such but not sure. Steps for how to use Git LSF with Unity can be found here: http://en.joysword.com/posts/2016/03/setting_up_github_for_unity_projects/
+Note: For large files, there's a handy program called Git LSF. To use it, I believe you have to use an application like Git Bash or such. Steps for how to use Git LSF with Unity can be found here: http://en.joysword.com/posts/2016/03/setting_up_github_for_unity_projects/
 
